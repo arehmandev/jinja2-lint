@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: jinja2-precommit-hook
+Version: 1.0
+Summary: Some out-of-the-box hooks for pre-commit.
+Home-page: https://github.com/arehmandev/jinja2-lint/pre-commit-hooks
+Author: Abdul Rehman
+Author-email: arehmandev@outlook.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy

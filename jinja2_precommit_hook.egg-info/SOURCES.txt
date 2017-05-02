@@ -1,0 +1,6 @@
+setup.py
+jinja2_precommit_hook.egg-info/PKG-INFO
+jinja2_precommit_hook.egg-info/SOURCES.txt
+jinja2_precommit_hook.egg-info/dependency_links.txt
+jinja2_precommit_hook.egg-info/entry_points.txt
+jinja2_precommit_hook.egg-info/top_level.txt

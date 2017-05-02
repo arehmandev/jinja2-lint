@@ -24,7 +24,7 @@ setup(
 
     entry_points={
         'console_scripts': [
-            'j2-lint = pre_commit_hooks.j2-lint:main',
+            'j2_lint_test = pre_commit_hooks.j2_lint_test:j2_lint_test',
         ],
     },
 )

@@ -1,0 +1,3 @@
+[console_scripts]
+j2_lint_test = pre_commit_hooks.j2_lint_test:j2_lint_test
+
